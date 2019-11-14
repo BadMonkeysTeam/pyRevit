@@ -10,6 +10,7 @@ extensions/*
 !extensions/pyRevitTutor.extension/
 !extensions/extensions.json
 !extensions/README.md
+!extensions/HCM.extension/
 
 # ignore visual studio files
 **/.vs
